@@ -1,0 +1,33 @@
+.TituloPrincipal{
+    background-color: #81bb4b;
+    padding: 20px;
+    margin: 0px;
+}
+.TituloPrincipal h1{
+    font-size: 400%;
+    color: #ffffff;
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+table{
+    margin: 100px auto;
+    margin-top: 20px;
+}
+
+button{
+    background-color: #a0d4d0;
+    width: 30px;
+    height: 30px;
+}
+button:hover{
+    background-color: #6ace81;
+}
+.X{
+    background-color: #80a3f0;
+}
+.O{
+    background-color: #fd6565;
+}
